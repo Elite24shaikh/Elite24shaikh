@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elite24shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="elite24shaikh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tutorialpheonix" target="blank"><img src="https://img.shields.io/twitter/follow/@tutorialpheonix?logo=twitter&style=for-the-badge" alt="@tutorialpheonix" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@its_abdullah" target="blank"><img src="https://img.shields.io/twitter/follow/@tutorialpheonix?logo=twitter&style=for-the-badge" alt="@tutorialpheonix" /></a> </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
