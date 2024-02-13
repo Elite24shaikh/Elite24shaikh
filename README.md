@@ -12,7 +12,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - ✍️ &nbsp; Building an Agency with Friends.
  
-- 🔭 I’m currently working on **Contact Manager Application using Express&NodeJs**
+- 🔭 I’m currently working on **NOTHING🙂*
 
 - 🌱 I’m currently learning **NodeJs**
 
