@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Mumbai,
+India</h3>
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elite24shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="elite24shaikh" /> </p>
