@@ -10,17 +10,17 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
-- ✍️ &nbsp; Building an Agency with Friends.
+- ✍️ &nbsp; Building an Agency.
  
 - 🔭 I’m currently working on **NOTHING🙂*
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 👨‍💻 All of my projects are available at [Rebuilding](Rebuilding)
 
-- 💬 Ask me about **Python, Front-end Technologies**
+- 💬 Ask me about **Python, Front-end Technologies,**
 
 - 📫 How to reach me **contact.shaikh12@gmail.com**
 
