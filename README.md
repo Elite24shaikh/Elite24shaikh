@@ -5,7 +5,7 @@ India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elite24shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="elite24shaikh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@its_abdullahS" target="blank"><img src="https://img.shields.io/twitter/follow/@its_abdullahS?logo=twitter&style=for-the-badge" alt="@its_abdullahS" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DevSabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/@its_abdullahS?logo=twitter&style=for-the-badge" alt="@DevSabdullah" /></a> </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
