@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **contact.shaikh12@gmail.com**
 
-- ⚡ Fun fact **I love to think about project only(but don't complete it) :)**
+- ⚡ Fun fact **I love to think about project only(but don't make it) :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
