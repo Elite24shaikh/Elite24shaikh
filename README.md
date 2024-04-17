@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/devsabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/devsabdullah?logo=twitter&style=for-the-badge" alt="devsabdullah" /></a> </p>
 
-- 🔭 I’m currently working on [NOTHING(cuz of END SEM)](--------)
+- 🔭 I’m currently working on [JS And REACT-Js(but IM PROcrastinator)](--------)
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, UI/UX**
 
 - 👯 I’m looking to collaborate on [Front-End Projects, and love to participate in Hackathons](--------)
 
-- 🤝 I’m looking for help with [NOTHING](--------)
+- 🤝 I’m looking for help with [Hmmmmm.........not now](--------)
 
 - 👨‍💻 All of my projects are available at [it's under rebuilding](it's under rebuilding)
 
