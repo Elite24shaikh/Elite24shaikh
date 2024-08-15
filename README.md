@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/devsabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/devsabdullah?logo=twitter&style=for-the-badge" alt="devsabdullah" /></a> </p>
 
-- 🔭 I’m currently working on [JS And REACT-Js(but IM PROcrastinator)](--------)
+- 🔭 I’m currently working on [REACT-Js, Flutter(but IM PROcrastinator)](--------)
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, UI/UX**
+- 🌱 I’m currently learning **ReactJS, UI/UX, NextJs, Flutter,Dart**
 
 - 👯 I’m looking to collaborate on [Front-End Projects, and love to participate in Hackathons](--------)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [I'm Very lazy to write one](I'm Very lazy to write one)
 
-- 💬 Ask me about **Front-End Technologies, python, AI, UI/UX**
+- 💬 Ask me about **Front-End Technologies, python, AI, UI/UX, Flutter, GCP**
 
 - 📫 How to reach me **contact.shaikh12@gmail.com**
 
