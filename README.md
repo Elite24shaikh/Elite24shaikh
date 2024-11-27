@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Front-End Technologies, python, AI, UI/UX, Flutter, GCP**
 
-- 📫 How to reach me **contact.shaikh12@gmail.com**
+- 📫 How to reach me **hello.abdullahdev@gmail.com**
 
 - ⚡ Fun fact **I love to think about project only(but don't make it) :)**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/devsabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsabdullah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullahs24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullahs24/" height="30" width="40" /></a>
-<a href="https://instagram.com/dsgn_abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsgn_abdullah" height="30" width="40" /></a>
+<a href="https://instagram.com/elite_.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsgn_abdullah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
