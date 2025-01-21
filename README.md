@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://twitter.com/devsabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/devsabdullah?logo=twitter&style=for-the-badge" alt="devsabdullah" /></a> </p>
 
-- 🔭 I’m currently working on [Pair Programming Web Application V.2](--------)
+- 🔭 I’m currently working on [DevGate Application V.2](--------)
 
-- 🌱 I’m currently learning **ReactJS, UI/UX, NextJs, Flutter,Dart**
+- 🌱 I’m currently learning **UI/UX, NextJs.**
 
-- 👯 I’m looking to collaborate on [Front-End Projects, and love to participate in Hackathons](--------)
+- 👯 I’m looking to collaborate on [Front-End Projects and UI/UX Projects, and love to participate in Hackathons](--------)
 
 - 🤝 I’m looking for help with [Hmmmmm.........not now](--------)
 
-- 👨‍💻 All of my projects are available at [it's under rebuilding](it's under rebuilding)
+- 👨‍💻 All of my projects are available at [on my porftfolio](but it's under Construction.)
 
-- 📝 I regularly write articles on [I'm Very lazy to write one](I'm Very lazy to write one)
+- 📝 I regularly write articles on [nowhere](Cuz I'm Very lazy to write one)
 
-- 💬 Ask me about **Front-End Technologies, python, AI, UI/UX, Flutter, GCP**
+- 💬 Ask me about **Front-End Technologies, AI, UI/UX , python, Flutter, GCP,<**
 
 - 📫 How to reach me **hello.abdullahdev@gmail.com**
 
-- ⚡ Fun fact **I love to think about project only(but don't make it) :)**
+- ⚡ Fun fact **I love to think about project only(but don't make it,cuz im PROinCrastination) :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
