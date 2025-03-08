@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devsabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/devsabdullah?logo=twitter&style=for-the-badge" alt="devsabdullah" /></a> </p>
 
-- 🔭 I’m currently working on **DevGate**
+- 🔭 I’m currently working on **Connect(A platform for developers)**
 
 - 🌱 I’m currently learning **UI/UX, NextJS, Typescript**
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Nothing for now**
 
-- 👨‍💻 All of my projects are available at [on my portfolio](on my portfolio)
+- 👨‍💻 All of my projects are available at (on my portfolio, which is in revamp phase)
 
-- 📝 I regularly write articles on [lazy to write one](lazy to write one)
+- 📝 I regularly write articles on nowhere(lazy to write one)
 
 - 💬 Ask me about **Frontend Technologies, UI/UX, GCP, AI, Python**
 
