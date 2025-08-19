@@ -6,23 +6,23 @@
 
 <p align="left"> <a href="https://twitter.com/devsabdullah" target="blank"><img src="https://img.shields.io/twitter/follow/devsabdullah?logo=twitter&style=for-the-badge" alt="devsabdullah" /></a> </p>
 
-- 🔭 I’m currently working on **NA**
+- 🔭 I’m currently working on **Komunity - connecting startups, communities and devs "together"**
 
-- 🌱 I’m currently learning **UIUX, Animations**
+- 🌱 I’m currently learning **UIUX, Web Animations, ReactNative**
 
-- 👯 I’m looking to collaborate on **Frontend Project, UI/UX, and Hackathons**
+- 👯 I’m looking to collaborate on **Frontend Project, UI/UX, and Hackathons, Startups, Organizing Tech events and Volunteering**
 
-- 🤝 I’m looking for help with **Startup Mentorship**
+- 🤝 I’m looking for help with **Startup Mentorship, ReactNative Development**
 
 - 👨‍💻 All of my projects are available at [on my portfolio](on my portfolio)
 
 - 📝 I regularly write articles on [lazy to write one](lazy to write one)
 
-- 💬 Ask me about **Frontend Technologies, UI/UX, GCP, AWS, AI, Python**
+- 💬 Ask me about **Frontend Technologies, UI/UX, GCP, AWS, AI, UI/UX, and Hackathons, Startups, Product Building**
 
 - 📫 How to reach me **hello.abdullahdev@gmail.com**
 
-- ⚡ Fun fact **Ambitious, creative, humorous(ChatGpt Generated)**
+- ⚡ Fun fact **Ambitious, creative, humorous(ChatGpt Generated Hai Yeh)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
